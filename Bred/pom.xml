@@ -31,5 +31,10 @@
       <artifactId>jedis</artifactId>
       <version>2.0.1-SNAPSHOT</version>
     </dependency>
+    <dependency>
+      <groupId>org.bukkit</groupId>
+      <artifactId>bukkit-snapshot-R1-1.0.0</artifactId>
+      <version>1</version>
+    </dependency>
   </dependencies>
 </project>
